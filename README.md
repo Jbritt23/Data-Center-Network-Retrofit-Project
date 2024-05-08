@@ -22,9 +22,3 @@ The goal of this project was to retrofit an existing data center to withstand a 
 - **Research**: Conducted extensive research to identify and select cutting-edge technology equipment suitable for the retrofit.
 - **Cost Analysis**: Developed a comprehensive cost analysis, estimating expenses associated with hardware purchases, software licenses, and implementation services.
 
-## Installation
-Detail the steps involved in setting up or installing project components, potentially including code blocks or scripts.
-
-```bash
-# Example installation step
-sudo apt-get install your-package-name
