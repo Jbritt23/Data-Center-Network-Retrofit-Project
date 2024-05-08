@@ -16,5 +16,15 @@ The goal of this project was to retrofit an existing data center to withstand a 
 - **Technical Proficiency**: Gained hands-on experience with state-of-the-art networking and security technologies.
 - **Problem Solving**: Developed solutions to enhance network resilience and efficiency in response to identified vulnerabilities.
 - **Team Collaboration**: Worked collaboratively in a competitive environment to meet tight deadlines and deliver a robust network design.
-- **Project Management**: Learned to manage a project lifecycle from planning through implementation under competitive conditions.
+- **Project Management**: Managed a project lifecycle from planning through implementation under competitive conditions.
+- **Report Writing**: Prepared detailed project reports, outlining project justifications, objectives, and implementation strategies.
+- **Network Design**: Utilized Microsoft Visio to create detailed network designs, illustrating the planned infrastructure upgrades.
+- **Research**: Conducted extensive research to identify and select cutting-edge technology equipment suitable for the retrofit.
+- **Cost Analysis**: Developed a comprehensive cost analysis, estimating expenses associated with hardware purchases, software licenses, and implementation services.
 
+## Installation
+Detail the steps involved in setting up or installing project components, potentially including code blocks or scripts.
+
+```bash
+# Example installation step
+sudo apt-get install your-package-name
